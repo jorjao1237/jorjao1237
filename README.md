@@ -1,3 +1,4 @@
+## Bem-vindo(a) ao meu perfil 😁😁
 <div>
    <a href="https://github.com/jorjao1237">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorjao1237&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  <a href="https://discord.gg/.jorjao1237" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
